@@ -1,0 +1,45 @@
+name: bongobondhu_app
+description: A new Flutter project.
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.19.2 <3.0.0"
+dependencies:
+  cupertino_icons: ^1.0.5
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  google_fonts:
+  provider: ^6.0.5
+  shared_preferences: ^2.2.0
+  connectivity_plus: ^4.0.1
+  url_launcher: ^6.1.11
+  molten_navigationbar_flutter: ^1.0.1
+#  awesome_notifications: ^0.7.4+1
+  lottie: ^2.4.0
+  image_picker: ^0.8.9
+  animated_toggle_switch: ^0.7.0
+  dartz: ^0.10.1
+  bot_toast: ^4.0.4
+  cached_network_image: ^3.2.3
+  audioplayers: ^4.1.0
+  intl: ^0.18.0
+  custom_pop_up_menu: ^1.2.4
+  speech_to_text: ^6.3.0
+  permission_handler: ^10.4.3
+
+
+dev_dependencies:
+  flutter_lints: ^2.0.1
+  flutter_test:
+    sdk: flutter
+  very_good_analysis: ^5.0.0+1
+
+flutter:
+  uses-material-design: true
+  generate: true
+  assets:
+    - assets/
+
