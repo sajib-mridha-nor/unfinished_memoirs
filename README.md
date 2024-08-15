@@ -1,16 +1,36 @@
-# bongobondhu_app
+# Uunfinished Memoirs
 
-A new Flutter project.
+A Flutter project 
 
-## Getting Started
+## Key Features
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Read and Listen Simultaneously: Access the memoir in both Bengali and English.
+* Language Toggle: Switch between languages easily.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+* Listen Only: Enjoy the audiobook without the text.
+* Background Play: Continue listening while multitasking.
+
+
+* Text-Only Mode: Read the memoir in Bengali or English.
+* Reading History: Save and resume your progress.
+* Bookmarking: Mark important passages.
+* Download Manager: Manage offline downloads of the book or chapters.
+
+
+* Rare Photos: Explore an archive of rare photos related to the memoir.
+
+
+
+
+## Below are some screenshots of the app view.
+![unfm (1)](https://github.com/user-attachments/assets/3e9e3ea9-7e14-400e-93f4-31c035ada151)
+
+
+
+## Download
+
+You can [download](https://ufmapp.etldev.xyz/) the latest installable version of Androids.
+
