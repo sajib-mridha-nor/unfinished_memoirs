@@ -1,4 +1,0 @@
-enum LanguageType {
-  Bangla,
-  English,
-}
